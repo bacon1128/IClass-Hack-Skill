@@ -10,4 +10,4 @@
   - 進入影片預覽畫面
   - F12 → Network → Media → Ctrl+R
   - 在下方視窗中找到影片檔
-  - 按右鍵 → O
+  - 按右鍵 → Open in new tab
